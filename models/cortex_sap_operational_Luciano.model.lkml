@@ -288,3 +288,7 @@ explore: global_currency_list_pdt {
   hidden: yes
   description: "Used to provide filter suggestions for Global Currency"
 }
+
+explore: vista_prueba {
+  label: "Mi Visualización de Prueba"
+}

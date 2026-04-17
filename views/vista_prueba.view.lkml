@@ -1,4 +1,4 @@
-view: prueba {
+view: vista_prueba {
   derived_table: {
     # Aquí creamos múltiples filas virtuales en lugar de solo SELECT 1.
     # Esto nos dará volumen de datos para que los gráficos tengan sentido.
